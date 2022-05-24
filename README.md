@@ -1,4 +1,7 @@
-# My Dotfiles
+# My Dotfile
+
+TODO: Will update this more in the future
+
 These are my dotfile configuration files for different software in Bash.
 ## .vimrc
 This is my custom .vimrc configuration for Vim.
